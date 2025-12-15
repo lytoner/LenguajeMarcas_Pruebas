@@ -1,0 +1,14 @@
+section{
+    color: green;
+    line-height: 1.5;   
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    /* Esto sirve para APLICAR COLOR VERDE EN TODOS LOS H3 DEL DOCUMENTO fuente y intyerlineado con H3{ color font family line-height,
+                        ponemos en comando link en el head de INDICE*/
+    }
+    
+    p{
+        color: blueviolet;       /* Esto sirve para APLICAR COLOR  VIOLETA EN TODOS LOS PARRAFOS P  DEL DOCUMENTO */
+        font-size: 16px;
+    }
+    
